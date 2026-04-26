@@ -4,10 +4,13 @@ I created a SplashScreen for KDE Plasma for anyone who is into FNV and gaming on
 
 # INSTALLATION
 Download the archive, extract it and change directory to ~/.local/share/plasma/look-and-feel/ 
+
     cd ~/.local/share/plasma/look-and-feel/ 
 Create a directory named FNVRoulette
+
     mkdir FNVRoulette
 Then move the downloaded file inside
+
     mv /path/of/download/files ~/.local/share/plasma/look-and-feel/FNVRoulette/
 You can activate it from: System Settings -> Appearance & Style -> Colours and Themes -> Splash Screen
 

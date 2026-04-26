@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "alemarano25@gmail.com",
+                "Name": "LuMarans25"
+            }
+        ],
+        "Description": "Splash Fallout New Vegas Theme",
+        "Id": "FNVRoulette",
+        "Name": "Fallout New Vegas Roulette",
+        "Version": "1.0",
+        "Website": "https://github.com/LuMarans25/FNVroulette"
+    },
+    "Keywords": "fallout;vault;kde-logo",
+    "X-Plasma-APIVersion": "1"
+}
